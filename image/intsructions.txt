@@ -1,0 +1,4 @@
+cd C:\Users\nagar\OneDrive\Desktop\env\Scripts
+activate
+cd C:\Users\nagar\OneDrive\Desktop\Projects\image
+python manage.py runserver
